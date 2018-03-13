@@ -9,4 +9,4 @@
 3.Отримання відповіді від комп"ютера
 
 # Скріншот
-![Рис.1 - Скріншот гри] (https://github.com/natalisabo/kpp_lab1/raw/master/lab1.bmp)
+![Рис.1 - Скріншот гри](https://github.com/natalisabo/kpp_lab1/raw/master/lab1.bmp)
